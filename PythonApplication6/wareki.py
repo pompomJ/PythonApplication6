@@ -1,3 +1,4 @@
+print("西暦年を入力してください")
 year = int(input("西暦："))
 
 if year == 1868:
