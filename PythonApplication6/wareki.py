@@ -19,6 +19,3 @@ elif year == 2019:
     print("令和元年")
 else:
     print("令和", year - 2018, "年")
-
-input()
-
